@@ -1,2 +1,2 @@
-# janken
-HTML files for Janken Drop
+# yokai
+HTML files for Kyoto Yokai Attack
